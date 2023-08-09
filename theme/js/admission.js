@@ -1,6 +1,6 @@
 /*
 
-Script  : Admission Form
+Script  : Admission Form-pian
 Version : 1.0
 Author  : Surjith S M
 URI     : http://themeforest.net/user/surjithctly
